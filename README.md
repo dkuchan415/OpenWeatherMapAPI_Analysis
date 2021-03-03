@@ -22,7 +22,7 @@ Here we have temperatures in each city and their latitude broken out by hemisphe
 
 ![image](https://user-images.githubusercontent.com/68552052/109753301-a13fcd00-7ba7-11eb-9f76-4d62cef554bb.png)
 
-**Southern Hemisphere **
+**Southern Hemisphere**
 
 ![image](https://user-images.githubusercontent.com/68552052/109753327-abfa6200-7ba7-11eb-9bd5-e55cab916a20.png)
 
